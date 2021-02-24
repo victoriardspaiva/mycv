@@ -1,0 +1,24 @@
+{
+    "name" : "Meu CV",
+    "short_name" : "Meu CV",
+    "background_color" : "#fff",
+    "theme_color" : "#fff",
+    "display": "standalone",
+    "start_url" : "./",
+    "icons" : [
+        {
+        "src" : "../assets/cv-96.png",
+        "sizes" : "96X96",
+        "type" : "image/png"
+    },{
+        "src" : "../assets/cv-194.png",
+        "sizes" : "194x194",
+        "type" : "image/png"
+    },{
+        "src" : "../assets/cv-36.png",
+        "sizes" : "36x36",
+        "type" : "image/png"
+    }
+]
+
+}

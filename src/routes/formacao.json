@@ -1,0 +1,22 @@
+[
+    {
+        "nome": "UPE",
+        "range": "02/2021 - ATUAL",
+        "desc": "Doutorado acadêmico"
+    },
+    {
+        "nome": "UFRPE",
+        "range": "01/2016 - 01/2018",
+        "desc": "Mestrado acadêmico"
+    },
+    {
+        "nome": "IFPE",
+        "range": "01/2018 - 01/2020",
+        "desc": "Especialização em TICs"
+    },
+    {
+        "nome": "FACOL",
+        "range": "01/2010 - 12/2013",
+        "desc": "Gruduação em SI"
+    }
+]

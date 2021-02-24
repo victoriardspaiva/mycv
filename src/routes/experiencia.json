@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "Senac Recife",
+        "range": "09/2020 - ATUAL",
+        "desc": "Professor Programador Web"
+    },
+    {
+        "nome": "Orube Tecnologia",
+        "range": "03/2020 - ATUAL",
+        "desc": "Professor Programador Web"
+    },
+    {
+        "nome": "Senac Vitória",
+        "range": "03/2014 - 03/2015",
+        "desc": "Professor"
+    }
+]
